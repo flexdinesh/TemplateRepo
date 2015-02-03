@@ -1,7 +1,7 @@
 /*JavaScript function declaration*/
 function functionName(arg1, arg2) {
 
-        //function logic
+        //function logic 
 
         return value;
     }
